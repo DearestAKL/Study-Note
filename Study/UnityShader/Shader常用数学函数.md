@@ -1,0 +1,20 @@
+### Shader常用数学函数
+
+step(a,b);	---	b>=a?1:0
+
+smoothstep(x,y,a);	---	a如果小于x返回0，如果a大于y返回1，在x与y之间则返回x的值
+
+lerp(a,b,w);	---	当w为0时返回a，为1时返回b，当w在0-1之间时，比重w将ab进行线性插值，可以实现由快到慢的效果
+
+fract(x);	---	返回x的小数部分
+
+sign(x);	---	x小于0返回-1.0,x等于0则返回0.0，x大于0则返回0
+
+clamp(x,a,b);	---	x如果小于a返回a，如果大于b返回b，在a~b范围内返回x
+
+fwidth(x);	---	取相邻两个像素该变量的插值，dxx就是x轴的插值，ddy就是y轴的插值，对应的也就是偏导数。Returns abs(ddx(x)+add(ddy(x)))
+
+pow(x,y);	---	x的y次方
+
+
+
