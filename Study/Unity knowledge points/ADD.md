@@ -1,0 +1,3 @@
+Application.lowMemory 
+
+Application.SystemLanguag
