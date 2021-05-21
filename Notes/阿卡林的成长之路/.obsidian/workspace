@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "4ef7b24e238c7cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0698853bf0dd4109",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity ShaderLab/URP/003.URP初试.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00f17e9776e71c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e12518cca50345f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a83023d348e65dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5073096d7778a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50781da6824e551c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62a87ba472a3dcd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dbf23a48050e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9392d0b4561a5b95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity ShaderLab/URP/003.URP初试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451
+  },
+  "active": "0698853bf0dd4109",
+  "lastOpenFiles": [
+    "Unity ShaderLab/URP/003.URP初试.md",
+    "Unity ShaderLab/URP/001.从Built-in到URP.md",
+    "Unity ShaderLab/URP/002.URP手册.md",
+    "Unity ShaderLab/URP/Untitled.md",
+    "Unity ShaderLab/URP/从Built-in到URP.md",
+    "Unity ShaderLab/URP/002.写一个URP Shader.md",
+    "Unity ShaderLab/URP/001.HLSL语法.md",
+    "Unity ShaderLab/URP/002..md",
+    "Untitled.md"
+  ]
+}
