@@ -2,6 +2,8 @@
 title: 简易的卡通Shader
 date: 2021-05-22 12:00:00
 tags: URP
+description: URP下的卡通Shader实现
+cover: https://drakari.top/2021/05/22/004-%E7%AE%80%E5%8D%95%E7%9A%84Toon-Shader/image-20210522121109858.png
 ---
 ## 效果图
 
