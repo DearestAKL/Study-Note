@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1ec9d0d84e496d",
+        "id": "c7c472e05f20bb11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unity ShaderLab/URP/004-简单的Toon-Shader.md",
+            "file": "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 519
   },
   "right": {
     "id": "62a87ba472a3dcd7",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity ShaderLab/URP/004-简单的Toon-Shader.md",
+                "file": "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 451,
     "collapsed": true
   },
-  "active": "8c1ec9d0d84e496d",
+  "active": "c7c472e05f20bb11",
   "lastOpenFiles": [
-    "Unity ShaderLab/URP/004-简单的Toon-Shader.md",
+    "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
+    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇（1）.md",
+    "Unity ShaderLab/URP/005-2173从零开始的卡通渲染学习-描边篇.md",
+    "006-2173从零开始的卡通渲染学习-着色篇/shader_1.png.md",
+    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇（2）.md",
     "Unity ShaderLab/URP/003-URP初试.md",
-    "Unity ShaderLab/URP/002-URP手册.md",
-    "计算机图形学/001-渲染流水线.md",
-    "计算机图形学/001-渲染流水线/1614083437921-5eb8f9c1-59eb-4895-83f6-f270273a334d.png",
-    "计算机图形学/001-渲染流水线/1614083272135-53abd669-e638-45cc-88aa-792b23b8b157.png",
-    "计算机图形学/001-渲染流水线/image-20201216092604790.png",
-    "Unity ShaderLab/URP/001-从Built-in到URP.md",
-    "计算机图形学/Untitled.md",
-    "001.从Built-in到URP.md"
+    "Unity ShaderLab/URP/004-简单的Toon-Shader.md",
+    "Unity ShaderLab/URP/Untitled.md",
+    "Untitled.md",
+    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇.md"
   ]
 }

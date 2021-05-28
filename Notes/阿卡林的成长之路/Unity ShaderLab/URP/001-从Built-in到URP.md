@@ -2,7 +2,7 @@
 title: 从Built-in到URP
 date: 2021-05-22 9:00:00
 tags: URP
-description: HLSL的语法。
+description: HLSL的语法。转载于狐狸菌的小站。
 cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 ---
 
