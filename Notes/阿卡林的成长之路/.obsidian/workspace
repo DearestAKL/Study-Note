@@ -6,10 +6,23 @@
       {
         "id": "c7c472e05f20bb11",
         "type": "leaf",
+        "dimension": 41.163310961968676,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
+            "file": "Unity ShaderLab/URP/001-从Built-in到URP.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "697671c83f35efb3",
+        "type": "leaf",
+        "dimension": 58.836689038031324,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity ShaderLab/URP/003-URP初试.md",
             "mode": "preview"
           }
         }
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
+                "file": "Unity ShaderLab/URP/003-URP初试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +107,17 @@
     "width": 451,
     "collapsed": true
   },
-  "active": "c7c472e05f20bb11",
+  "active": "697671c83f35efb3",
   "lastOpenFiles": [
-    "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
-    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇（1）.md",
-    "Unity ShaderLab/URP/005-2173从零开始的卡通渲染学习-描边篇.md",
-    "006-2173从零开始的卡通渲染学习-着色篇/shader_1.png.md",
-    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇（2）.md",
     "Unity ShaderLab/URP/003-URP初试.md",
-    "Unity ShaderLab/URP/004-简单的Toon-Shader.md",
-    "Unity ShaderLab/URP/Untitled.md",
-    "Untitled.md",
-    "Unity ShaderLab/URP/006-2173从零开始的卡通渲染学习-着色篇.md"
+    "Unity ShaderLab/URP/001-从Built-in到URP.md",
+    "Unity ShaderLab/URP/002-URP手册.md",
+    "Unity ShaderLab/URP/008-SRPBatcher.md",
+    "Unity ShaderLab/URP/008-SRPBatcher/srp_1.png",
+    "Unity ShaderLab/URP/008-SRPBatcher/srp_2.png",
+    "Unity ShaderLab/URP/008-SRP Batcher.md",
+    "Unity ShaderLab/URP/007-2173从零开始的卡通渲染学习-着色篇（2）.md",
+    "Unity ShaderLab/URP/005-2173从零开始的卡通渲染学习-描边篇.md",
+    "Unity ShaderLab/URP/004-简单的Toon-Shader.md"
   ]
 }
